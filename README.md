@@ -2,6 +2,8 @@
 
 Digitize handwritten tailoring shop repair tickets using Gemini AI vision. Upload photos of carbon-copy repair tickets, review AI-extracted data with confidence indicators, then export to CSV/TSV or sync directly to Google Sheets.
 
+This project was built with Google's aistudio as an initial proof of concept.
+
 ## Features
 
 - **Batch upload** with drag-and-drop or file picker (JPG, PNG, HEIC)
@@ -21,6 +23,7 @@ Digitize handwritten tailoring shop repair tickets using Gemini AI vision. Uploa
 - Node.js (v18+)
 
 ### Setup
+A caveat to the setup steps, this app was developed on google's ai studio (for ease of token usage/mangement), and running locally has not been tested.
 
 1. Install dependencies:
    ```
