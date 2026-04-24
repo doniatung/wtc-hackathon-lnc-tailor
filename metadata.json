@@ -1,0 +1,6 @@
+{
+  "name": "Ticket Extractor",
+  "description": "Digitize handwritten tailoring shop repair tickets using Gemini AI. Features parallel processing, human-in-the-loop review, and nested CSV/TSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
